@@ -1,0 +1,1580 @@
+{
+  "search_metadata": {
+    "id": "69ea5e2ec83b3f4e65c9e207",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LFHaSngs4MukO-595WCDbw/69ea5e2ec83b3f4e65c9e207.json",
+    "created_at": "2026-04-23 18:00:14 UTC",
+    "processed_at": "2026-04-23 18:00:14 UTC",
+    "google_news_url": "https://news.google.com/search?q=%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F&hl=bg&gl=BG",
+    "raw_html_file": "https://serpapi.com/searches/LFHaSngs4MukO-595WCDbw/69ea5e2ec83b3f4e65c9e207.html",
+    "total_time_taken": 2.28
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "bg",
+    "hl": "bg",
+    "q": "България"
+  },
+  "news_results": [
+    {
+      "position": 2,
+      "stories": [
+        {
+          "position": 1,
+          "title": "ЦИК обяви разпределението на мандатите в 52-рия парламент: „Прогресивна България“ ще има мнозинство със 131 депутати",
+          "source": {
+            "name": "БТА",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bta.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "authors": [
+              "Николай Иванович Трифонов"
+            ]
+          },
+          "link": "https://www.bta.bg/bg/news/bulgaria/1112393-tsik-obyavi-razpredelenieto-na-mandatite-v-52-riya-parlament-progresivna-balga",
+          "thumbnail": "https://www.bta.bg/upload/12476370/20260219_083310.jpg?l=1000&original=",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUlVRWRpT1dzMmNWaFBRMVZVVFJDMEFSaVpBaWdCTWdNQkpBQQ",
+          "date": "04/23/2026, 03:15 PM, +0000 UTC",
+          "iso_date": "2026-04-23T15:15:22Z"
+        },
+        {
+          "position": 2,
+          "title": "Официално от ЦИК: \"Прогресивна България\" има 131 мандата в парламента",
+          "source": {
+            "name": "Клуб 'Z'",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://clubz.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://clubz.bg/173858",
+          "thumbnail": "https://clubz.bg/media/137/mil_8521-1-~2.l.webp",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5SV1ZEWm5aTmRGTTNVVXh2VFJERUF4aW5CU2dLTWdrQkFJeEdsZWJRcHdJ",
+          "date": "04/23/2026, 04:33 PM, +0000 UTC",
+          "iso_date": "2026-04-23T16:33:31Z"
+        },
+        {
+          "position": 3,
+          "title": "Вижте кои са новите 240 депутати (Графики)",
+          "source": {
+            "name": "www.24chasa.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.24chasa.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.24chasa.bg/bulgaria/article/22716410",
+          "thumbnail": "https://cache2.24chasa.bg/Images/Cache/514/IMAGE_22716514_40_0.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpSbVYyWVZOV1RsQnhSRVl3VFJDb0FSaXJBaWdCTWdrVmdJUU15S0pyelFF",
+          "date": "04/22/2026, 07:10 PM, +0000 UTC",
+          "iso_date": "2026-04-22T19:10:00Z"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "stories": [
+        {
+          "position": 1,
+          "title": "България напусна лигата на страните с най-ниския държавен дълг",
+          "source": {
+            "name": "Dnevnik.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dnevnik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "authors": [
+              "Татяна Ангелова Димитрова"
+            ]
+          },
+          "link": "https://www.dnevnik.bg/biznes/2026/04/23/4906277_bulgariia_napusna_ligata_na_stranite_s_nai-niskiia/",
+          "thumbnail": "https://img.dnevnik.bg/shimg/zx1200y675_4906364.jpg?v=1776944704",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtSV3AxYUhGaVdYYzJjaTEyVFJDZkF4ampCU2dLTWdB",
+          "date": "04/23/2026, 11:46 AM, +0000 UTC",
+          "iso_date": "2026-04-23T11:46:00Z"
+        },
+        {
+          "position": 2,
+          "title": "Дългът на България остава сред най-ниските в ЕС, но е сред най-бързо растящите",
+          "source": {
+            "name": "Investor.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investor.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "authors": [
+              "Bojidarka Tchobaligova"
+            ]
+          },
+          "link": "https://www.investor.bg/a/515-ikonomika-i-makrodanni/429625-dalgat-na-balgariya-ostava-sred-nay-niskite-v-es-no-e-sred-nay-barzo-rastyashtite",
+          "thumbnail": "https://www.investor.bg/media/files/resized/article/640x360/773/4227034bfadd488b47f1ccc29c9a7773-436232291.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhTbFJDU0dVMmEzZ3dWVGxoVFJEb0FoaUFCU2dLTWdrQkFJcUZHR2RiY2dF",
+          "date": "04/22/2026, 02:32 PM, +0000 UTC",
+          "iso_date": "2026-04-22T14:32:00Z"
+        },
+        {
+          "position": 3,
+          "title": "Евростат потвърди: България е надхвърлила допустимия бюджетен дефицит за 2025 г.",
+          "source": {
+            "name": "Economic.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economic.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.economic.bg/bg/a/view/bylgarija-e-izljazla-dosta-izvyn-ramkite-za-budjetnija-deficit-prez-2025-g",
+          "thumbnail": "https://www.economic.bg/web/files/articles/153509/narrow_image/thumb_1040x585_temenujka-petkova-bkk-2778-3-1.JPG",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWMDFFTVZOdWRYQnJOVUZHVFJDZkF4ampCU2dLTWdhcFJZVE5vUWc",
+          "date": "04/22/2026, 11:45 AM, +0000 UTC",
+          "iso_date": "2026-04-22T11:45:13Z"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "stories": [
+        {
+          "position": 1,
+          "title": "Тежка махленска драма на политическия терен - \"Да, България\" готови да разцепят ПП-ДБ",
+          "source": {
+            "name": "News.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://news.bg/politics/tezhka-mahlenska-drama-na-politicheskiya-teren-da-balgariya-gotovi-da-raztsepyat-pp-db-1.html",
+          "thumbnail": "https://webnews.bg/uploads/images/33/9533/759533/768x432.jpg?_=1776625329",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWlSVFJxU0ROTWVsWllXbkF4VFJDZkF4ampCU2dLTWdzRlFKWUVxU2dlcDdyZWV3",
+          "date": "04/23/2026, 12:46 PM, +0000 UTC",
+          "iso_date": "2026-04-23T12:46:59Z"
+        },
+        {
+          "position": 2,
+          "title": "ФЕЙК: Мирчев обмисля 'Да, България' да стане отделна парламентарна група. С Атанасов не си вдигат телефоните",
+          "source": {
+            "name": "offnews.bg",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://offnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://offnews.bg/politika/zaradi-pejkov-mirchev-obmislia-da-balgaria-da-stane-otdelna-parla-865641.html",
+          "thumbnail": "https://i2.offnews.bg/events/2026/04/23/865641/php4q1wg2_559x*.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUdZbFJ4VFVGTU5HTnpTMDkyVFJDb0FSaXNBaWdCTWdB",
+          "date": "04/23/2026, 01:48 PM, +0000 UTC",
+          "iso_date": "2026-04-23T13:48:00Z"
+        },
+        {
+          "position": 3,
+          "title": "Божидар Божанов защити симпатизантите на \"Да, България\", атакуващи Асен Василев",
+          "source": {
+            "name": "Dnevnik.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dnevnik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.dnevnik.bg/izbori-2026/2026/04/22/4906075_bojidar_bojanov_zashtiti_simpatizantite_na_da/",
+          "thumbnail": "https://img.dnevnik.bg/shimg/zx780_4906076.jpg?v=1776880473",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlYMGx1UVY5bFRrdERRV2xZVFJDZkF4amlCU2dLTWdZQklJd3RsUW8",
+          "date": "04/22/2026, 05:52 PM, +0000 UTC",
+          "iso_date": "2026-04-22T17:52:00Z"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "stories": [
+        {
+          "position": 1,
+          "title": "Астрологът Мира Кунева: Кармата на Радев е вързана със съдбата на България",
+          "source": {
+            "name": "Bgonair",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bgonair.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.bgonair.bg/a/36-sutreshen-blok/416568-astrologat-mira-kuneva-karmata-na-radev-e-varzana-sas-sadbata-na-balgariya",
+          "thumbnail": "https://www.bgonair.bg/media/files/resized/article/w1280x720/dda/3164581b7ab5f6545c6041fa43bdbdda-mira-kuneva.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1NbGRFYW1oSE1uTjBkR1ZvVFJDZkF4ampCU2dLTWdhNU00aHdIUWs",
+          "date": "04/22/2026, 08:35 AM, +0000 UTC",
+          "iso_date": "2026-04-22T08:35:00Z"
+        },
+        {
+          "position": 2,
+          "title": "След победата на \"Прогресивна България\" на изборите: Радев получи поздравления от Мерц в телефонен разговор",
+          "source": {
+            "name": "Vesti.bg",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.vesti.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.vesti.bg/bulgaria/radev-poluchi-pozdravleniia-ot-merc-v-telefonen-razgovor-6257819",
+          "thumbnail": "https://m5.netinfo.bg/media/images/51079/51079427/orig-orig-merc.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpXV0kzWVRkbU1HSjRhVlJCVFJDaEF4amVCU2dLTWdZWmdKQXJMZ2M",
+          "date": "04/23/2026, 02:29 PM, +0000 UTC",
+          "iso_date": "2026-04-23T14:29:00Z"
+        },
+        {
+          "position": 3,
+          "title": "Икономическите идеи на Радев за България",
+          "source": {
+            "name": "Капитал",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.capital.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.capital.bg/politika_i_ikonomika/bulgaria/2026/04/22/4905179_ikonomicheskite_idei_na_radev_za_bulgariia/",
+          "thumbnail": "https://img.capital.bg/shimg/zx1200y675_4905585.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpTM0U1Y0dSNE56TlJVR1JrVFJDZkF4ampCU2dLTWdZbEJvUHNUUU0",
+          "date": "04/22/2026, 08:59 AM, +0000 UTC",
+          "iso_date": "2026-04-22T08:59:00Z"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "stories": [
+        {
+          "position": 1,
+          "title": "Първият електрически модел на Suzuki, eVITARA, дебютира в България",
+          "source": {
+            "name": "Carmarket.bg",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://carmarket.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "authors": [
+              "Martin Deshev"
+            ]
+          },
+          "link": "https://carmarket.bg/elektromobili/pyrviiat-elektricheski-model-na-suzuki-evitara-debiutira-v-bylgariia-12141",
+          "thumbnail": "https://m.netinfo.bg/media/images/51309/51309612/1180-663-suzuki-evitara.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBNMUZoVTNObmFXVkJUV05JVFJDZkF4ampCU2dLTWdZQlFvZ3l3UVU",
+          "date": "04/23/2026, 12:37 PM, +0000 UTC",
+          "iso_date": "2026-04-23T12:37:55Z"
+        },
+        {
+          "position": 2,
+          "title": "Продажбите на нови електромобили в България скачат с 50% за тримесечието",
+          "source": {
+            "name": "Dnevnik.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dnevnik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.dnevnik.bg/skorost/avtomobilna_industriia/2026/04/23/4906200_prodajbite_na_novi_elektromobili_v_bulgariia_skachat_s/",
+          "thumbnail": "https://img.dnevnik.bg/shimg/zx1200y630d_4906198.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNSFpMZHpaVkxWOXFTR1pvVFJDUkF4ajhCU2dLTWdhVklvREtNUVk",
+          "date": "04/23/2026, 07:37 AM, +0000 UTC",
+          "iso_date": "2026-04-23T07:37:00Z"
+        },
+        {
+          "position": 3,
+          "title": "България е първа в ЕС по ръст на продажбите на хибриди за първото тримесечие",
+          "source": {
+            "name": "Investor.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investor.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.investor.bg/a/444-novini/429673-balgariya-e-parva-v-es-po-rast-na-prodazhbite-na-hibridi-za-parvoto-trimesechie",
+          "thumbnail": "https://www.investor.bg/media/files/resized/article/640x360/884/2209000a9b2b9f02eb86f919af90a884-427046106.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhXVzkzYWw5WVlucHNkV3BvVFJEb0FoaUFCU2dLTWdB",
+          "date": "04/23/2026, 01:15 PM, +0000 UTC",
+          "iso_date": "2026-04-23T13:15:00Z"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Пред 40 дипломати: България затвърди стабилен интерес на туристите през зимата, очакваме за лятото умерен ръст",
+      "source": {
+        "name": "ФОКУС",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.focus-news.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.focus-news.net/novini/Bylgaria/Pred-40-diplomati-Bulgariya-zatvurdi-stabilen-interes-na-turistite-prez-zimata-ochakvame-za-lyatotoumeren-rust-2956107",
+      "thumbnail": "https://i.id24.bg/i/2956107.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhTalZWYTJWWVgyOVhXalZzVFJEQkF4aXJCU2dLTWdZQnNJYkx1UVU",
+      "date": "04/23/2026, 02:57 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:57:13Z"
+    },
+    {
+      "position": 8,
+      "title": "Започва строителството на жп линията от Крива паланка до тунела с България",
+      "source": {
+        "name": "Mediapool.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mediapool.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mediapool.bg/zapochva-stroitelstvoto-na-zhp-liniyata-ot-kriva-palanka-do-tunela-s-bulgaria-news382675.html",
+      "thumbnail": "https://www.mediapool.bg/images/382/large_aabb7b65b4d91bbcbd13a93fbcaf7750.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkbFZwWldRMGJrbFZXUzAzVFJDM0FSaVRBaWdCTWdZdGNZNXZzUVU",
+      "date": "04/23/2026, 02:57 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:57:42Z"
+    },
+    {
+      "position": 9,
+      "title": "Жълт код за студ и слани в Североизточна България",
+      "source": {
+        "name": "nova.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nova.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nova.bg/news/view/2026/04/23/534805/%D0%B6%D1%8A%D0%BB%D1%82-%D0%BA%D0%BE%D0%B4-%D0%B7%D0%B0-%D1%81%D1%82%D1%83%D0%B4-%D0%B8-%D1%81%D0%BB%D0%B0%D0%BD%D0%B8-%D0%B2-%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B8%D0%B7%D1%82%D0%BE%D1%87%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F/",
+      "thumbnail": "https://i49.vbox7.com/o/799/799b30c4be0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRRVGg0WW1SWGNXdEJRMDU1VFJDZkF4ampCU2dLTWdZUlFwWXNKUWc",
+      "date": "04/23/2026, 03:09 AM, +0000 UTC",
+      "iso_date": "2026-04-23T03:09:34Z"
+    },
+    {
+      "position": 10,
+      "title": "Старите асансьори в България ще бъдат ремонтирани или подменени с нови",
+      "source": {
+        "name": "Dir",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dnes.dir.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dnes.dir.bg/obshtestvo/starite-asansyori-v-balgariya-shte-badat-remontirani-ili-podmeneni-s-novi",
+      "thumbnail": "https://static.dir.bg/uploads/images/2018/12/04/1611851/384x216.jpg?_=1776929169",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9jbXBNVUhWNWRrRTJZV3BxVFJEWUFSaUFBeWdLTWdB",
+      "date": "04/23/2026, 06:51 AM, +0000 UTC",
+      "iso_date": "2026-04-23T06:51:21Z"
+    },
+    {
+      "position": 11,
+      "stories": [
+        {
+          "position": 1,
+          "title": "Христанов: Има открити две огнища на антракс в страната, които са изолирани",
+          "source": {
+            "name": "nova.bg",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nova.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://nova.bg/news/view/2026/04/23/534809/%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B8%D0%BC%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%82%D0%B8-%D0%B4%D0%B2%D0%B5-%D0%BE%D0%B3%D0%BD%D0%B8%D1%89%D0%B0-%D0%BD%D0%B0-%D0%B0%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%81-%D0%B2-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0%D1%82%D0%B0-%D0%BA%D0%BE%D0%B8%D1%82%D0%BE-%D1%81%D0%B0-%D0%B8%D0%B7%D0%BE%D0%BB%D0%B8%D1%80%D0%B0%D0%BD%D0%B8/",
+          "thumbnail": "https://nstatic.nova.bg/public/pics/nova/article/980x551_1776920701.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpkM2c0VTJ0SFNuUjBkalZHVFJDZkF4ampCU2dLTWdZQmlJcUdyZ1k",
+          "date": "04/23/2026, 05:13 AM, +0000 UTC",
+          "iso_date": "2026-04-23T05:13:00Z"
+        },
+        {
+          "position": 2,
+          "title": "Няма заразени с антракс в България",
+          "source": {
+            "name": "Clinica.bg",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://clinica.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://clinica.bg/37578-nqma-zarazeni-s-antraks-v-bylgariq",
+          "thumbnail": "https://clinica.bg/pictures/pic_big/gallery/news/677793217_1292289863045720_7280347862528100772_n.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxlVzVLTjNoalNHSnhlV0ZpVFJERUF4aW5CU2dLTWdNQkNRUQ",
+          "date": "04/22/2026, 01:40 PM, +0000 UTC",
+          "iso_date": "2026-04-22T13:40:00Z"
+        },
+        {
+          "position": 3,
+          "title": "Иван Христанов: Има две огнища на антракс в България, изолирани са",
+          "source": {
+            "name": "www.24chasa.bg",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.24chasa.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.24chasa.bg/bulgaria/article/22717668",
+          "thumbnail": "https://cache2.24chasa.bg/Images/Cache/748/IMAGE_22717748_40_0.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSVzF3WVdkWk1XMXJPSGRYVFJDUUF4allCQ2dLTWdhcFZKYXVKUWc",
+          "date": "04/23/2026, 04:55 AM, +0000 UTC",
+          "iso_date": "2026-04-23T04:55:00Z"
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "title": "ЦИК обяви мандатите в НС: Вижте кои закони „Прогресивна България“ може да приема сама",
+      "source": {
+        "name": "bTV Новините",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://btvnovinite.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Десислава Ризова"
+        ]
+      },
+      "link": "https://btvnovinite.bg/bulgaria/cik-objavi-mandatite-v-ns-vizhte-koi-zakoni-progresivna-balgarija-mozhe-da-priema-sama.html",
+      "thumbnail": "https://cdn.btv.bg/media/images/640x360/Dec2025/2113711064.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURZVUY1VlVKak0xTmpkR3RFVFJEb0FoaUFCU2dLTWdrQlVJaEN2NlY2YUFJ",
+      "date": "04/23/2026, 04:15 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:15:31Z"
+    },
+    {
+      "position": 13,
+      "title": "Делът на бедните в България се е свил незначително през миналата година",
+      "source": {
+        "name": "Investor.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investor.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Петя Стоянова"
+        ]
+      },
+      "link": "https://www.investor.bg/a/516-politika/429678-delat-na-bednite-v-balgariya-se-e-svil-neznachitelno-prez-minalata-godina",
+      "thumbnail": "https://www.investor.bg/media/files/resized/article/640x360/af2/d1bd5f8c4c06ec4988952293c8f2aaf2-2148546873.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRiWG8zVVZjM2VFTkZNV0ZyVFJEb0FoaUFCU2dLTWdhQlZvZ0t1Z1E",
+      "date": "04/23/2026, 04:19 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:19:00Z"
+    },
+    {
+      "position": 14,
+      "title": "К. Занков: България очаква стабилен туристически сезон",
+      "source": {
+        "name": "bloombergtv.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bloombergtv.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bloombergtv.bg/a/17-v-razvitie/158610-k-zankov-balgariya-ochakva-stabilen-turisticheski-sezon",
+      "thumbnail": "https://video2.ibg.bg/image/640x360/391465.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9RbFpaTFVSemQzQlBibmxPVFJEb0FoaUFCU2dLTWdhdE5ZRE5IUWs",
+      "date": "04/23/2026, 01:55 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:55:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Съдът на ЕС: България законно спря схемата \"френска безработица\"",
+      "source": {
+        "name": "www.24chasa.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.24chasa.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.24chasa.bg/bulgaria/article/22722147",
+      "thumbnail": "https://cache2.24chasa.bg/Images/Cache/244/IMAGE_22722244_40_0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRabkpqTjBnNVdUUk5lVWhuVFJDUUF4aTdCQ2dLTWdhQmlZN2xNZ2M",
+      "date": "04/23/2026, 02:34 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:34:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Според Евростат: Бюджетният дефицит на България за 2025 г. е 3,5%",
+      "source": {
+        "name": "nova.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nova.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Георги Карамфилов"
+        ]
+      },
+      "link": "https://nova.bg/news/view/2026/04/23/534909/%D1%81%D0%BF%D0%BE%D1%80%D0%B5%D0%B4-%D0%B5%D0%B2%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%BD%D0%B8%D1%8F%D1%82-%D0%B4%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82-%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-2025-%D0%B3-%D0%B5-35/",
+      "thumbnail": "https://i49.vbox7.com/o/e44/e4492346ea0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNaRXd6U1hkaldFd3pOR1p0VFJDZkF4ampCU2dLTWdZaE00SXpsUW8",
+      "date": "04/23/2026, 04:13 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:13:58Z"
+    },
+    {
+      "position": 17,
+      "title": "Три сценария за икономиката: какво очаква България през 2026 г.",
+      "source": {
+        "name": "Под Тепето",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://podtepeto.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://podtepeto.com/bulgaria/tri-sczenariya-za-ikonomikata-kakvo-ochakva-balgariya-prez-2026-g/",
+      "thumbnail": "https://podtepeto.com/wp-content/uploads/2022/10/bulgaria-g463daab76_1920-780x470.jpg.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdiM0JRZEZFMWFVcGxhM3AwVFJDdUF4aktCU2dLTWdZWmxJN01QUVk",
+      "date": "04/23/2026, 10:04 AM, +0000 UTC",
+      "iso_date": "2026-04-23T10:04:24Z"
+    },
+    {
+      "position": 18,
+      "title": "ФЕЙК: Мирчев обмисля 'Да, България' да стане отделна парламентарна група. С Атанасов не си вдигат телефоните",
+      "source": {
+        "name": "offnews.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://offnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://offnews.bg/politika/fejk-mirchev-obmislia-da-balgaria-da-stane-otdelna-parlamentarna-g-865641.html",
+      "thumbnail": "https://i2.offnews.bg/events/2026/04/23/865641/php4q1wg2_559x*.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdZbFJ4VFVGTU5HTnpTMDkyVFJDNkFoaXZCQ2dLTWdhcElvQXZsUWM",
+      "date": "04/23/2026, 01:48 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:48:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Белград атакува Румен Радев! Бъдещият премиер на България ни забива нож в гърба и не ни зачита",
+      "source": {
+        "name": "fakti.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fakti.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fakti.bg/world/1050115-belgrad-atakuva-rumen-radev-badeshtiat-premier-na-balgaria-ni-zabiva-noj-v-garba-i-ne-ni-zachita",
+      "thumbnail": "https://cdn4.focus.bg/fakti/photos/big/e39/belgrad-atakuva-rumen-radev-badeshtiat-premier-na-balgaria-ni-zabiva-noj-v-garba-i-ne-ni-zachita-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUVzlVVEcxRFZIUXdabFpOVFJDZEFoamdBeWdLTWdhdEVaek9sQW8",
+      "date": "04/23/2026, 12:55 PM, +0000 UTC",
+      "iso_date": "2026-04-23T12:55:15Z"
+    },
+    {
+      "position": 20,
+      "title": "Търговските центрове и ритейл паркове в България достигат 1.5 млн. кв. метра",
+      "source": {
+        "name": "Банкер",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://banker.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://banker.bg/2026/04/23/targovski-czentrove-riteil-parkove-1-5-mln/",
+      "thumbnail": "https://banker.bg/wp-content/uploads/mark-potterton-snvkn3507oo-unsplash-edt-min.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVa2R1VVV4Sk9Fb3pNRTlGVFJEQ0F4aXBCU2dLTWdhWmdveXFOUVU",
+      "date": "04/23/2026, 01:04 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:04:31Z"
+    },
+    {
+      "position": 21,
+      "title": "България вече не е в топ 3 по най-нисък дефицит в ЕС",
+      "source": {
+        "name": "Бизнес новините",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://businessnovinite.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://businessnovinite.bg/svjat/balgarija-veche-ne-e-v-top-3-po-naj-nisak-dalg-v-es.html",
+      "thumbnail": "https://cdn.btv.bg/media/images/640x360/Apr2026/2113795604.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9PR0Y0UTB4clJVNUdhMHRyVFJEb0FoaUFCU2dLTWdzQkFJeFlrS2JJWXdwNmV3",
+      "date": "04/23/2026, 07:32 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:32:32Z"
+    },
+    {
+      "position": 22,
+      "title": "България отстъпи едно място и вече е четвърта по най-ниско съотношението дълг към БВП",
+      "source": {
+        "name": "Forbes Bulgaria",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://forbesbulgaria.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://forbesbulgaria.com/2026/04/23/balgariya-otstapi-edno-myasto-i-veche-e-chetvarta-po-naj-nisko-saotnoshenieto-dalg-kam-bvp/",
+      "thumbnail": "https://forbesbulgaria.com/wp-content/uploads/2026/04/map-of-bulgaria.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkelZSWTJaT05FbHlkSHAyVFJERUF4aW1CU2dLTWdhRmNwSnNzUVk",
+      "date": "04/23/2026, 12:40 PM, +0000 UTC",
+      "iso_date": "2026-04-23T12:40:33Z"
+    },
+    {
+      "position": 23,
+      "title": "Търсенето на електромобили в България надминава средното за ЕС",
+      "source": {
+        "name": "Forbes Bulgaria",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://forbesbulgaria.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://forbesbulgaria.com/2026/04/23/tarseneto-na-elektromobili-v-balgariya-nadminava-srednoto-za-es/",
+      "thumbnail": "https://forbesbulgaria.com/wp-content/uploads/2026/04/close-up-of-electric-car-charging-at-outdoor-stati-2026-03-18-21-33-09-utc-1-1024x576.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtjMUZ6TkcxMFJVaENkRGhsVFJDZkF4ampCU2dLTWdZRklJaXlTQVE",
+      "date": "04/23/2026, 07:24 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:24:27Z"
+    },
+    {
+      "position": 24,
+      "title": "Икономист: България остава сред най-слабо задлъжнелите страни в ЕС",
+      "source": {
+        "name": "Dnes.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dnes.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dnes.bg/a/1-bulgaria/719056-ikonomist-balgariya-ostava-sred-nay-slabo-zadlazhnelite-strani-v-es",
+      "thumbnail": "https://www.dnes.bg/media/files/resized/article/588x/2b7/f62a882cd41b6ee9985d832f77ca12b7-konomika.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUbWQ2V1VGc1RVMTFhMlJJVFJES0Foak1CQ2dLTWdZeE5JU1BIUWs",
+      "date": "04/23/2026, 01:30 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:30:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Фискалният съвет с три сценария за България през 2026 г. – оптимистичен, песимистичен и много песимистичен",
+      "source": {
+        "name": "Frognews",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://frognews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://frognews.bg/novini/fiskalniiat-savet-tri-stsenariia-balgariia-prez-2026--optimistichen-pesimistichen-mnogo-pesimistichen.html",
+      "thumbnail": "https://frognews.bg/images2/Krasen/1776943722_69ea026a6e294.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTalozU0dGaVNYbGFlVXN4VFJDZkF4ampCU2dLTWdZZGM0eHZ1UVU",
+      "date": "04/23/2026, 11:40 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:40:00Z"
+    },
+    {
+      "position": 26,
+      "title": "България се подготвя за първия си летен туристически сезон в еврозоната - какви са очакванията на бизнеса",
+      "source": {
+        "name": "Money.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://money.bg/business/balgariya-se-podgotvya-za-parviya-si-leten-turisticheski-sezon-v-evrozonata-kakvi-sa-ochakvaniyata-na-biznesa.html",
+      "thumbnail": "https://webnews.bg/uploads/images/17/9117/539117/768x432.jpg?_=1626341251",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJNMFprZVVoMlkydzBUV28xVFJDZkF4ampCU2dLTWdZQk1JaDBIQWM",
+      "date": "04/23/2026, 03:30 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:30:02Z"
+    },
+    {
+      "position": 27,
+      "title": "България е домакин на срещата на Комитета по технически, оперативни и теми от областта на безопасността на Европейската асоциация на летищата",
+      "source": {
+        "name": "Bgtourism.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bgtourism.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bgtourism.bg/bulgaria-aci-europe-26/",
+      "thumbnail": "https://bgtourism.bg/wp-content/uploads/2026/04/sofia-1-meeting.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9NbFpzTmtGUmJGWnlaMEpGVFJDZkF4ampCU2dLTWdZQmdJeWl0QVU",
+      "date": "04/23/2026, 12:16 PM, +0000 UTC",
+      "iso_date": "2026-04-23T12:16:13Z"
+    },
+    {
+      "position": 28,
+      "title": "ЦИК обяви разпределението на мандатите в 52-рия парламент: „Прогресивна България“ ще има мнозинство със 131 депутати",
+      "source": {
+        "name": "Дебати БГ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://debati.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://debati.bg/czik-obyavi-razpredelenieto-na-mandatite-v-52-riya-parlament-progresivna-balgariya-sthe-ima-mnozinstvo-sas-131-deputati/",
+      "thumbnail": "https://debati.bg/wp-content/uploads/2026/04/czik-obyavi-razpredelenieto-na-mandatite-v-52-riya-parlament-%E2%80%9Eprogresivna-balgariya.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9PSHB1VkdoUFRIZDVNbmhLVFJDN0F4aTBCU2dLTWdNQmt3QQ",
+      "date": "04/23/2026, 03:21 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:21:41Z"
+    },
+    {
+      "position": 29,
+      "title": "Съдът на ЕС пресече \"френската безработица\" в България",
+      "source": {
+        "name": "Банкер",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://banker.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://banker.bg/2026/04/23/sadat-es-frenska-bezraboticza-v-balgariya/",
+      "thumbnail": "https://banker.bg/wp-content/uploads/%D0%A1%D1%8A%D0%B4%D1%8A%D1%82-%D0%BD%D0%B0-%D0%B5%D1%81.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZNVzFNVm1wWGJuQkRabXRxVFJDN0F4aTBCU2dLTWdZTmFZckhTZ1U",
+      "date": "04/23/2026, 03:24 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:24:13Z"
+    },
+    {
+      "position": 30,
+      "title": "Евростат удари България! Бюджетният дефицит достигнал 3,5% за 2025 година",
+      "source": {
+        "name": "marica.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marica.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marica.bg/balgariq/obshtestvo/evrostat-udari-balgariq-byudjetniqt-deficit-dostignal-3-5-za-2025-godina",
+      "thumbnail": "https://cdn.marica.bg/images/marica.bg/1779/1200_ChatGPT%20Image%20Feb%206,%202026,%2003_02_27%20PM.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFaME5YVEU5aVVVaEJlbGc0VFJDZkF4ampCU2dLTWdhaFFZQ01wUVk",
+      "date": "04/23/2026, 05:00 PM, +0000 UTC",
+      "iso_date": "2026-04-23T17:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Райън Надери е надеждата България отново да има нападател, който стряска съперниковите защити",
+      "source": {
+        "name": "Dnevnik.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dnevnik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dnevnik.bg/sport/2026/04/23/4903832_raiun_naderi_e_nadejdata_bulgariia_otnovo_da_ima/",
+      "thumbnail": "https://img.dnevnik.bg/shimg/zx1200y675_4903831.jpg?v=1776457622",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjRmhoZDBvNFYwdHJSMEZCVFJDZkF4ampCU2dLTWdhcEJZenREUXM",
+      "date": "04/23/2026, 03:37 AM, +0000 UTC",
+      "iso_date": "2026-04-23T03:37:00Z"
+    },
+    {
+      "position": 32,
+      "title": "🫤Неприятен край на кампанията за футболист номер 1 на България 🇧🇬",
+      "source": {
+        "name": "facebook.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/dsport.bg/posts/%D0%BD%D0%B5%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B5%D0%BD-%D0%BA%D1%80%D0%B0%D0%B9-%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D1%82%D0%B0-%D0%B7%D0%B0-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80-1-%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-/1631424478990215/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1631423682323628",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJlVXd4VjFOWVZtbEdUbUZmVFJEaEFSamhBU2dCTWdZWkpJVE5HUW8",
+      "date": "04/23/2026, 04:36 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:36:12Z"
+    },
+    {
+      "position": 33,
+      "title": "България \"тихомълком\" помага на САЩ за ударите в Близкия изток, твърди \"Политико\"",
+      "source": {
+        "name": "Dnevnik.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dnevnik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Petar Karaboev"
+        ]
+      },
+      "link": "https://www.dnevnik.bg/sviat/2026/04/23/4906143_bulgariia_tihomulkom_pomaga_na_sasht_za_udarite_v/",
+      "thumbnail": "https://img.dnevnik.bg/shimg/zx1200y675_4906162.jpg?v=1776925276",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZka2hwWm01bldVUnlXRWhKVFJDZkF4ampCU2dLTWdZQlVJUnNwUU0",
+      "date": "04/23/2026, 06:25 AM, +0000 UTC",
+      "iso_date": "2026-04-23T06:25:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Социолози: \"Прогресивна България\" да търси диалог в НС, има напрежение между ПП и ДБ",
+      "source": {
+        "name": "Bgonair",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bgonair.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bgonair.bg/a/36-sutreshen-blok/416672-sotsiolozi-progresivna-balgariya-da-tarsi-dialog-v-ns-ima-naprezhenie-mezhdu-pp-i-db",
+      "thumbnail": "https://www.bgonair.bg/media/files/resized/article/w1280x720/1b3/76c5cf95079f52b9d742c6fea39bf1b3-izbori.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhhemx2Tkhvd09HRTFVbXhDVFJDZkF4ampCU2dLTWdrUmNwYW5LaWc5Q3dJ",
+      "date": "04/23/2026, 07:39 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:39:00Z"
+    },
+    {
+      "position": 35,
+      "title": "До дни “Лукойл” предявява иск за 3 млрд. евро срещу България ᐉ Новини от Fakti.bg - България",
+      "source": {
+        "name": "fakti.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://fakti.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://fakti.bg/bulgaria/1050134-do-dni-lukoil-predavava-isk-za-3-mlrd-evro-sreshtu-balgaria",
+      "thumbnail": "https://cdn4.focus.bg/fakti/photos/big/956/do-dni-lukoil-predavava-isk-za-3-mlrd-evro-sreshtu-balgaria-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVRVzFhY2paUk0xWTRaV1pXVFJDZEFoamdBeWdLTWdNSmtSWQ",
+      "date": "04/23/2026, 01:35 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:35:42Z"
+    },
+    {
+      "position": 36,
+      "title": "Официално от ЦИК: 131 мандата за \"Прогресивна България\", 39 за ГЕРБ-СДС и 37 за ПП-ДБ",
+      "source": {
+        "name": "Bgonair",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bgonair.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bgonair.bg/a/2-bulgaria/416736-ofitsialno-ot-tsik-131-mandata-za-progresivna-balgariya-39-za-gerb-sds-i-37-za-pp-db",
+      "thumbnail": "https://www.bgonair.bg/media/files/resized/article/863x471/eac/7d91b532d36ad6de71bc3de4ca9f2eac-radev.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhVjloTFRWVWQyeFpMVkZ4VFJDWkF4anVCU2dLTWdheEZZak9sUW8",
+      "date": "04/23/2026, 03:29 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:29:00Z"
+    },
+    {
+      "position": 37,
+      "title": "„Прогресивна България“ с парламентарно мнозинство: Какво означава новото разпределение на силите в 52-рото Народно събрание",
+      "source": {
+        "name": "Дебати БГ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://debati.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://debati.bg/progresivna-balgariya-s-parlamentarno-mnozinstvo-kakvo-oznachava-novoto-razpredelenie-na-silite-v-52-roto-narodno-sabranie/",
+      "thumbnail": "https://debati.bg/wp-content/uploads/2025/03/20240409070451_mil_5719.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ibGw0ZVhNNVNXRkxaMVpZVFJDeEF4aUtCU2dLTWdZQkVKSnJHUWM",
+      "date": "04/23/2026, 03:53 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:53:43Z"
+    },
+    {
+      "position": 38,
+      "title": "Новото правителство на България ще търси прагматизма, за да спаси европейската индустрия",
+      "source": {
+        "name": "Investor.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investor.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Деляна Петкова"
+        ]
+      },
+      "link": "https://www.investor.bg/a/516-politika/429468-novoto-pravitelstvo-na-balgariya-shte-tarsi-pragmatizma-za-da-spasi-evropeyskata-industriya",
+      "thumbnail": "https://www.investor.bg/media/files/resized/article/640x360/013/26f268db12d3ab553d03ecc306b0f013-radev-mitko2.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5jVVZUY0Zod1ExcGFjeTB6VFJEb0FoaUFCU2dLTWdrQlFJN3JJU2pvQ3dJ",
+      "date": "04/19/2026, 08:39 PM, +0000 UTC",
+      "iso_date": "2026-04-19T20:39:00Z"
+    },
+    {
+      "position": 39,
+      "title": "България е избрана пред Турция и Саудитска Арабия за старта на Giro d'Italia",
+      "source": {
+        "name": "БНТ Новини",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bntnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bntnews.bg/news/balgariya-e-izbrana-pred-turciya-i-sauditska-arabiya-za-starta-na-giro-d-39italia-1390035news.html",
+      "thumbnail": "https://bntnews.bg/f/news/b/1390/7adb51a250bbe7ba1f1bf83f40dd8f6b.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJjbkpSTlVsdExVcHdSVGhqVFJDZkF4amlCU2dLTWdhdEZaRE9GUW8",
+      "date": "04/23/2026, 04:00 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Ще остане частица от мощите на св. новомъченик Лазар Български в България?",
+      "source": {
+        "name": "БНТ Новини",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bntnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bntnews.bg/news/shte-ostane-chastica-ot-moshtite-na-sv-novomachenik-lazar-balgarski-v-balgariya-1389966news.html",
+      "thumbnail": "https://bntnews.bg/f/news/b/1389/89afc562fadcb3c31552722b25aa9201.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVViM28xUlMxcGJsTkNkMWRLVFJERUF4aW1CU2dLTWdhQlVKUmdLd2c",
+      "date": "04/23/2026, 11:08 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:08:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Между стагфлацията и фискалния риск: икономиката на България влиза в 2026 г. без буфери",
+      "source": {
+        "name": "3e News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://3e-news.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Галина Анатольевна Александрова"
+        ]
+      },
+      "link": "https://3e-news.net/bg/a/view/69015/mejdu-stagflacijata-i-fiskalnija-risk-ikonomikata-na-bylgarija-vliza-v-2026-g-bez-buferi",
+      "thumbnail": "https://3e-news.net/web/files/articles/69015/main_image/thumb_850x480_fiskalen-syvet-3e-news-bta.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJiRnBpWXpGelZsRTFZVzl3VFJDZ0F4amhCU2dLTWdZQllKN0dKQWs",
+      "date": "04/23/2026, 11:27 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:27:43Z"
+    },
+    {
+      "position": 42,
+      "title": "Пуснаха билетите за реванша между ЦСКА и Лудогорец за Sesame Купа на България",
+      "source": {
+        "name": "Gong.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gong.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gong.bg/bg-football/kupa-na-bulgaria/pusnaha-biletite-za-revansha-mezhdu-cska-i-ludogorec-za-sesame-kupa-na-bylgariia-888989",
+      "date": "04/23/2026, 02:42 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:42:33Z"
+    },
+    {
+      "position": 43,
+      "title": "Световните медии: проруският кандидат печели в България, обещавайки борба с корупцията",
+      "source": {
+        "name": "Investor.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investor.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Деляна Петкова"
+        ]
+      },
+      "link": "https://www.investor.bg/a/516-politika/429464-svetovnite-medii-proruskiyat-kandidat-pecheli-v-balgariya-obeshtavayki-borba-s-koruptsiyata",
+      "thumbnail": "https://www.investor.bg/media/files/resized/article/640x360/3b6/a72463ebd13ad1c2a598f13fbeec53b6-putin-radev-bloom.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtSMDAzTkhSRFRHMVJTVWhEVFJEb0FoaUFCU2dLTWdhcEk1SnZIUWs",
+      "date": "04/19/2026, 06:58 PM, +0000 UTC",
+      "iso_date": "2026-04-19T18:58:00Z"
+    },
+    {
+      "position": 44,
+      "title": "\"Фенербахче\" уволнява треньора на България",
+      "source": {
+        "name": "www.24chasa.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.24chasa.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.24chasa.bg/sport/article/22719982",
+      "thumbnail": "https://cache2.24chasa.bg/Images/Cache/986/IMAGE_22719986_40_0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpWbEZ5WVZaZmN6WnJSeTFyVFJDUUF4andBeWdLTWdhcEpaek5GUW8",
+      "date": "04/23/2026, 10:44 AM, +0000 UTC",
+      "iso_date": "2026-04-23T10:44:27Z"
+    },
+    {
+      "position": 45,
+      "title": "ЦИК обяви разпределението на мандатите: Ето колко ще има „Прогресивна България“ на Радев",
+      "source": {
+        "name": "Darik.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://darik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://darik.bg/cik-obavi-razpredelenieto-na-mandatite-eto-kolko-ste-ima-progresivna-balgaria-na-radev~525369.html",
+      "thumbnail": "https://darik.bg/media/790/653043070_1460351068789559_1544083723663798733_n~4.l.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZkM2x1Y1ZKMlZpMW9TVlZaVFJDZkF4amlCU2dLTWdtdFlJb1BzU00taXdF",
+      "date": "04/23/2026, 03:17 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:17:11Z"
+    },
+    {
+      "position": 46,
+      "title": "Полша с редица отсъстващи преди мача с България във ВНЛ при жените",
+      "source": {
+        "name": "Volley Week",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://volleyweek.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://volleyweek.bg/article/7318-Polsha-s-reditsa-otsastvashti-predi-macha-s-Balgariya-vav-VNL-pri-zhenite",
+      "thumbnail": "https://volleyweek.bg/_next/image?url=https%3A%2F%2Fpub-017d0406746f4a5aaea535593182ebdb.r2.dev%2F7318%2Ffeature.jpeg%3Fv%3D1776944846052&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhOMGxqZVZreVJ6ZEVXRmg1VFJDM0FSaVRBaWdCTWdhUlFwSXNvUWM",
+      "date": "04/23/2026, 03:57 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:57:29Z"
+    },
+    {
+      "position": 47,
+      "title": "„Джиро д' Италия“ пристига в България",
+      "source": {
+        "name": "Darik.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://darik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://darik.bg/dziro-d-italia-pristiga-v-balgaria~525359.html",
+      "thumbnail": "https://darik.bg/media/790/screenshot_110~6.og.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJiVWRWWjFSS05TMHlSR2t0VFJDUkF4ajhCU2dLTWdhaFJvUUxxZ2M",
+      "date": "04/23/2026, 02:38 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:38:50Z"
+    },
+    {
+      "position": 48,
+      "title": "България (може би) стъпва на картата на чуждите купувачи на луксозни имоти",
+      "source": {
+        "name": "Dnevnik.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.dnevnik.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Татяна Ангелова Димитрова"
+        ]
+      },
+      "link": "https://www.dnevnik.bg/biznes/2026/04/15/4902703_bulgariia_moje_bi_stupva_na_kartata_na_chujdite/",
+      "thumbnail": "https://img.dnevnik.bg/shimg/zx1200y675_4902742.jpg?v=1776247424",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZlblpSUkdoWWQxUkNOMkl5VFJDZkF4ampCU2dLTWdrQllJVE1OR09pTWdF",
+      "date": "04/15/2026, 10:06 AM, +0000 UTC",
+      "iso_date": "2026-04-15T10:06:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Готвят масови съкращения в най-новата и екологична въглищна централа в България",
+      "source": {
+        "name": "Plovdiv24.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.plovdiv24.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.plovdiv24.bg/novini/Bylgaria/Gotvyat-masovi-sukrashteniya-v-nai-novata-i-ekologichna-vuglishtna-centrala-v-Bulgariya-2955919",
+      "thumbnail": "https://i.id24.bg/i/2955919.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9SbEY1WTB4MFJVdHdTMWM0VFJDOUF4aXhCU2dLTWdZQlFJYk50QVU",
+      "date": "04/23/2026, 09:22 AM, +0000 UTC",
+      "iso_date": "2026-04-23T09:22:43Z"
+    },
+    {
+      "position": 50,
+      "title": "\"Троянски кон на Путин\": чужди медии за изборите в България",
+      "source": {
+        "name": "DW.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dw.com/bg/troanski-kon-na-putin-cuzdi-medii-za-izborite-v-blgaria/a-76848374",
+      "thumbnail": "https://static.dw.com/image/76846495_804.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdSRTFWUjJvMldYRjNPR3QyVFJDcUJCaXFCQ2dLTWdZQlU1Yk1KUWs",
+      "date": "04/19/2026, 05:02 PM, +0000 UTC",
+      "iso_date": "2026-04-19T17:02:49Z"
+    },
+    {
+      "position": 51,
+      "title": "България е в списъка с \"добрите\" държави на Тръмп, \"тихомълком\" помогнала за войната в Иран",
+      "source": {
+        "name": "Dnes.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dnes.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Нели Христова"
+        ]
+      },
+      "link": "https://www.dnes.bg/a/2-svyat/718966-balgariya-e-v-spisaka-s-dobrite-darzhavi-na-tramp-tihomalkom-pomognala-za-voynata-v-iran",
+      "thumbnail": "https://www.dnes.bg/media/files/resized/article/588x/378/ca74118c613ac2fa7f3c73df99f2a378-b064ac35-bb70-46a4-afc4-22367949b6c6.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJaa2hDZVZkaWRtWmphRzFJVFJETEFoak1CQ2dLTWdZVlVaUktKUWM",
+      "date": "04/23/2026, 05:40 AM, +0000 UTC",
+      "iso_date": "2026-04-23T05:40:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Икономист: Избирателите в България ca повече от самото население",
+      "source": {
+        "name": "Plovdiv24.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.plovdiv24.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.plovdiv24.bg/novini/Bylgaria/Ikonomist-Izbiratelite-v-Bulgariya-ca-poveche-ot-samoto-naselenie-2955888",
+      "thumbnail": "https://i.id24.bg/i/2955888.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXdUVk5EYzFGNE1uZHZSSEJuVFJDUUF4ai1CU2dLTWdNUkJBdw",
+      "date": "04/23/2026, 08:46 AM, +0000 UTC",
+      "iso_date": "2026-04-23T08:46:26Z"
+    },
+    {
+      "position": 53,
+      "title": "В \"България сутрин\" на 24 април от 09:30 часа: Тенденциите при задлъжнялостта след еврото",
+      "source": {
+        "name": "Bgonair",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bgonair.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bgonair.bg/a/204-ochakvayte/416676-v-balgariya-sutrin-na-24-april-ot-0930-chasa-tendentsiite-pri-zadlazhnyalostta-sled-evroto",
+      "thumbnail": "https://video2.ibg.bg/image/640x360/391422.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZZek5sTUZkM1RubG5kbGxIVFJEb0FoaUFCU2dLTWdZcGhaTE5zUVk",
+      "date": "04/23/2026, 08:35 AM, +0000 UTC",
+      "iso_date": "2026-04-23T08:35:56Z"
+    },
+    {
+      "position": 54,
+      "title": "Ще се променят ли позициите на България във външнополитически план след изборите",
+      "source": {
+        "name": "nova.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nova.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nova.bg/news/view/2026/04/23/534824/%D1%89%D0%B5-%D1%81%D0%B5-%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D1%8F%D1%82-%D0%BB%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8%D1%82%D0%B5-%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B2%D1%8A%D0%B2-%D0%B2%D1%8A%D0%BD%D1%88%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D0%BF%D0%BB%D0%B0%D0%BD-%D1%81%D0%BB%D0%B5%D0%B4-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B8%D1%82%D0%B5/",
+      "date": "04/23/2026, 07:06 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:06:29Z"
+    },
+    {
+      "position": 55,
+      "title": "Аурубис България инвестира 70 000 евро за развитието на спорта в Пирдоп и Златица",
+      "source": {
+        "name": "RNews.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://rnews.bg/%D0%B0%D1%83%D1%80%D1%83%D0%B1%D0%B8%D1%81-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%B0-70-000-%D0%B5%D0%B2%D1%80%D0%BE-%D0%B7%D0%B0-%D1%80/",
+      "thumbnail": "https://rnews.bg/wp-content/uploads/2026/04/508431135_2189848328167039_1018250209764418721_n-750x375.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUlaMVoxTTBZME0wWlhRVFpxVFJEM0FoanVCU2dLTWdzQklZN2hOT1ZpWmxvSnlR",
+      "date": "04/23/2026, 11:30 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:30:32Z"
+    },
+    {
+      "position": 56,
+      "title": "AI срещу корупцията: Какви са технологичните планове на „Прогресивна България“",
+      "source": {
+        "name": "Economic.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economic.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.economic.bg/bg/a/view/ai-sreshtu-korupcijata-tehnologichnite-planove-na-progresivna-bylgarija",
+      "thumbnail": "https://www.economic.bg/web/files/articles/153524/narrow_image/thumb_1040x585_rumenradev-bt.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhSVkJ5V1VOTVR6UmpOVUpKVFJDZkF4ampCU2dLTWdhQkpLS1FGUXM",
+      "date": "04/23/2026, 10:01 AM, +0000 UTC",
+      "iso_date": "2026-04-23T10:01:09Z"
+    },
+    {
+      "position": 57,
+      "title": "Казусът с Пейков, Попов и Панев: Топката е в полето на \"Демократична България\"",
+      "source": {
+        "name": "Mediapool.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mediapool.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mediapool.bg/kazusat-s-peikov-popov-i-panev-topkata-e-v-poleto-na-demokratichna-bulgaria-news382668.html",
+      "thumbnail": "https://www.mediapool.bg/images/382/large_49d99a2d98c38ee11c9139dfd9264fb4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXJRVWN5ZEZWTVRrRlhTbXRIVFJDM0FSaVRBaWdCTWdzQmdKQWpOeWNlQ3pwVlhB",
+      "date": "04/23/2026, 04:44 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:44:04Z"
+    },
+    {
+      "position": 58,
+      "title": "\"Прогресивна България\" влиза със 131 депутати в 52-рото Народно събрание",
+      "source": {
+        "name": "БНТ Новини",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bntnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bntnews.bg/news/progresivna-balgariya-vliza-sas-131-deputati-v-52-roto-narodno-sabranie-1389572news.html",
+      "thumbnail": "https://bntnews.bg/f/news/b/1389/b52f9a1455c915ff4b36e4a6f8365274.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXZlRUl6VmpZd1MyMDVUR3B1VFJDYkF4anBCU2dLTWdzQkFJd0ZHV2k1a1VsVFpB",
+      "date": "04/21/2026, 02:50 PM, +0000 UTC",
+      "iso_date": "2026-04-21T14:50:16Z"
+    },
+    {
+      "position": 59,
+      "title": "България е домакин на среща на европейската летищна асоциация, свързана с безопасността в авиацията",
+      "source": {
+        "name": "Утро Русе",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://utroruse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://utroruse.com/article/1249202/",
+      "thumbnail": "https://cc.utroruse.com/B6EPvu-NG0xbYHCNdyCkDhgAdSz9_xH7wuqsEUAexjg/rs:fill:1200:675:0/g:fp:0.5:0.37/q:75/plain/local:///1776950402795/55afb6a131410d4de0248f57c42faeaf.JPG@webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHlaR1JXZVZOSFNVeDJVME5aVFJDZkF4ampCU2dLTWdrQmdJWml3R01sQ2dJ",
+      "date": "04/23/2026, 01:19 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:19:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Politico: България тихомълком подкрепи американската логистика в Близкия изток",
+      "source": {
+        "name": "ФОКУС",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.focus-news.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.focus-news.net/novini/mejdunarodni/Politico-Bulgariya-tihomulkom-podkrepi-amerikanskata-logistika-v-Blizkiya-iztok-2955807",
+      "thumbnail": "https://i.id24.bg/i/2955807.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFSbVJ1TTNGbGRFcHhRbkpvVFJDUkF4ajlCU2dLTWdB",
+      "date": "04/23/2026, 06:55 AM, +0000 UTC",
+      "iso_date": "2026-04-23T06:55:05Z"
+    },
+    {
+      "position": 61,
+      "title": "10 красавици вече репетират за конкурса „Мис България – Хасково“",
+      "source": {
+        "name": "Haskovo.info",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://haskovo.info&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://haskovo.info/258011/10-krasavitsi-veche-repetirat-za-konkursa-mis-balgariya-haskovo/",
+      "thumbnail": "https://cdn.haskovo.info/wp-content/uploads/2026/04/miss_230426.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVaMTgwVWw5ck9GSmpRa3gwVFJEZUF4aUNCU2dLTWdB",
+      "date": "04/23/2026, 01:45 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:45:11Z"
+    },
+    {
+      "position": 62,
+      "title": "\"Политико\": България тихомълком подкрепи американската логистика в Близкия изток",
+      "source": {
+        "name": "Dir",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dnes.dir.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dnes.dir.bg/na-fokus/politiko-balgariya-tihomalkom-okaza-logistichna-podkrepa-na-sasht-v-blizkiya-iztok",
+      "thumbnail": "https://static.dir.bg/uploads/images/2026/02/22/2957843/384x216.jpg?_=1771791861",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtOSFpMUVdwb1gyeEtVVkZaVFJEWUFSaUFBeWdLTWdNQllBdw",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:08Z"
+    },
+    {
+      "position": 63,
+      "title": "Карта на вота: \"Прогресивна България\" води почти навсякъде в страната, къде е най-силна подкрепата за Радев?",
+      "source": {
+        "name": "БНТ Новини",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bntnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bntnews.bg/news/karta-na-vota-progresivna-balgariya-vodi-pochti-navsyakade-v-stranata-kade-e-nai-silna-podkrepata-za-radev-1389467news.html",
+      "thumbnail": "https://bntnews.bg/f/news/b/1389/02c95cce662c26e488ee70692c9eab28.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBaakpNUW5aV1RETldXWEkxVFJEQ0F4aXBCU2dLTWdhMUpJYVFsUW8",
+      "date": "04/20/2026, 02:16 PM, +0000 UTC",
+      "iso_date": "2026-04-20T14:16:31Z"
+    },
+    {
+      "position": 64,
+      "title": "Националният селекционер на България при жените остава без работа на клубно ниво",
+      "source": {
+        "name": "Dsport",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dsport.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dsport.bg/nacionalniat-selekcioner-na-balgaria-pri-zenite-ostava-bez-rabota-na-klubno-nivo~227891.html",
+      "thumbnail": "https://dsport.bg/media/364/1593157307138_1b309e418e~1.l.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUNURFF0VDNsa05FUlBZMUZIVFJDZkF4amlCU2dLTWdB",
+      "date": "04/23/2026, 11:21 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:21:34Z"
+    },
+    {
+      "position": 65,
+      "title": "\"Политико\": България \"тихомълком\" помага на САЩ в Близкия изток",
+      "source": {
+        "name": "Mediapool.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mediapool.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mediapool.bg/politiko-bulgaria-tihomalkom-pomaga-na-sasht-v-blizkiya-iztok-news382643.html",
+      "thumbnail": "https://www.mediapool.bg/images/382/large_1f2b134c0b036f7e3716ffcb29120a86.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJNbXRVZDNGSU9XYzVVbnBuVFJDMEF4aV9CU2dLTWdrVk5ZVE1uV21pNndF",
+      "date": "04/23/2026, 08:06 AM, +0000 UTC",
+      "iso_date": "2026-04-23T08:06:34Z"
+    },
+    {
+      "position": 66,
+      "title": "Воробьов: България ми е дала страшно много. Дойде моментът да ѝ връщам",
+      "source": {
+        "name": "offnews.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://offnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://offnews.bg/politika/vorobiov-balgaria-mi-e-dala-strashno-mnogo-dojde-momentat-da-%D1%9D-vras-865604.html",
+      "thumbnail": "https://i2.offnews.bg/events/2026/04/23/865604/phpp5ju5n_559x*.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxWa0ZhZUVvd1lYWk1ORkZOVFJEakFoaXZCQ2dLTWdZNU01aFJIUWs",
+      "date": "04/23/2026, 09:13 AM, +0000 UTC",
+      "iso_date": "2026-04-23T09:13:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Западните медии за изборите в България",
+      "source": {
+        "name": "БНТ Новини",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bntnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bntnews.bg/news/zapadnite-medii-za-izborite-v-balgariya-1389353news.html",
+      "thumbnail": "https://bntnews.bg/f/news/b/1389/052ef7b827d8c0a6f9366b9a81ba2fda.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRzVzWDFWQloxZFNZa05CVFJERUF4aW1CU2dLTWdZQlFaREpvUWM",
+      "date": "04/20/2026, 06:32 AM, +0000 UTC",
+      "iso_date": "2026-04-20T06:32:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Икономическите идеи на Радев за България",
+      "source": {
+        "name": "Търговско-промишлена палата – Стара Загора",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://chambersz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://chambersz.com/2026/04/23/ikonomicheskite-idei-na-radev-za-blgariya/",
+      "thumbnail": "https://chambersz.com/wp-content/uploads/2026/04/radev-1027x550.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUljSFJLYW5wYU4wTnBWbkZUVFJDVkF4ajFCU2dLTWdZbEJvUHNUUU0",
+      "date": "04/23/2026, 05:25 AM, +0000 UTC",
+      "iso_date": "2026-04-23T05:25:02Z"
+    },
+    {
+      "position": 69,
+      "title": "Германският канцлер Фридрих Мерц поздрави Румен Радев с победата на „Прогресивна България“ на парламентарните избори",
+      "source": {
+        "name": "Пловдив Нюз",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://plovdivnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://plovdivnews.bg/bulgaria1/item/197874-germanskiyat-kantsler-fridrih-merts-pozdravi-rumen-radev-s-pobedata-na-progresivna-balgariya-na-parlamentarnite-izbori/",
+      "thumbnail": "https://plovdivnews.bg/wp-content/uploads/2026/04/radev-pobeda.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtNRWw1VW0xVGJYWnBkazlwVFJDekFoajdBeWdLTWdtQmxZYk50YVhJOUFB",
+      "date": "04/23/2026, 02:58 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:58:56Z"
+    },
+    {
+      "position": 70,
+      "title": "Продажбите на електромобили в България са в подем през март",
+      "source": {
+        "name": "Economic.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economic.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.economic.bg/bg/a/view/prodajbite-na-elektromobili-v-bylgarija-sa-v-podem-prez-mart",
+      "thumbnail": "https://www.economic.bg/web/files/articles/153530/narrow_image/thumb_1040x585_depositphotos-473914976-l.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRWFZGV25sUWMweGpSMHhSVFJDZkF4ampCU2dLTWdhQlFZWVFvUVU",
+      "date": "04/23/2026, 11:07 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:07:26Z"
+    },
+    {
+      "position": 71,
+      "title": "Фискалният съвет: Риск от енергиен шок и стагфлация в България през 2026 г.",
+      "source": {
+        "name": "Vesti.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.vesti.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.vesti.bg/bulgaria/fiskalniiat-syvet-risk-ot-energien-shok-i-stagflaciia-v-bylgariia-prez-2026-g-6257766",
+      "thumbnail": "https://m4.netinfo.bg/media/images/51232/51232012/orig-orig-evro-bylgariia.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZRVEpXYVhCMVZsWmlaalp3VFJERUF4aW5CU2dLTWdZRkI0eEdJZ1k",
+      "date": "04/23/2026, 07:49 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:49:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Първи коментар на лидера на \"Прогресивна България\" - Румен Радев, след първите резултати към 19:00 ч. според екзитполовете",
+      "source": {
+        "name": "facebook.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/btvnews/videos/%D0%BF%D1%8A%D1%80%D0%B2%D0%B8-%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D0%B8%D0%B2%D0%BD%D0%B0-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D1%80%D1%83%D0%BC%D0%B5%D0%BD-%D1%80%D0%B0%D0%B4%D0%B5%D0%B2-%D1%81%D0%BB%D0%B5%D0%B4-%D0%BF%D1%8A%D1%80%D0%B2%D0%B8%D1%82%D0%B5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%82/1632800017847809/",
+      "date": "04/19/2026, 05:27 PM, +0000 UTC",
+      "iso_date": "2026-04-19T17:27:57Z"
+    },
+    {
+      "position": 73,
+      "title": "До дни “Лукойл” предявява иск за 3 млрд. евро срещу България",
+      "source": {
+        "name": "epicenter.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://epicenter.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://epicenter.bg/article/Do-dni--Lukoyl--predyavyava-isk-za-3-mlrd--evro-sreshtu-Balgariya/420920/2/0",
+      "thumbnail": "https://epicenter.bg/images/news/32026/pics/Rumaniya-e-gotova-da-pusne-v-eksploatatsiya-zatvorenata-rafineriya--Petrotel-Lukoyl-_1773305537.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFOa2hYU0dGbFprVjJOMW96VFJDUkF4ajhCU2dLTWdZQjFvd0h4Z1E",
+      "date": "04/23/2026, 03:30 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:30:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Защо в ресторантите в България е толкова скъпо?",
+      "source": {
+        "name": "DW.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Емилия Константинова Милчева"
+        ]
+      },
+      "link": "https://www.dw.com/bg/zaso-v-restorantite-v-blgaria-e-tolkova-skpo/a-76732310",
+      "thumbnail": "https://static.dw.com/image/73431234_804.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNDJhMFZ1YzJkZlRqRnBhMVpHVFJDcUJCaXFCQ2dLTWc0QkFJelJHT1Y1SnFwRlRFWkZOQQ",
+      "date": "04/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-10T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Ще изчезне ли символът на спа столицата на България? Жители и община в спор заради изкопни дейности",
+      "source": {
+        "name": "Plovdiv24.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.plovdiv24.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.plovdiv24.bg/novini/Bylgaria/Shte-izchezne-li-simvolut-na-spa-stolicata-na-Bulgariya-Zhiteli-i-obshtina-v-spor-zaradi-izkopni-deinosti-2955801",
+      "thumbnail": "https://i.id24.bg/i/2955801.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROVjlxT0RoRlVFb3pkV1pIVFJESkF4aWZCU2dLTWdZQlFJUk9MUU0",
+      "date": "04/23/2026, 06:45 AM, +0000 UTC",
+      "iso_date": "2026-04-23T06:45:58Z"
+    },
+    {
+      "position": 76,
+      "title": "Роберт Кабуков остава старши треньор на националния отбор на България по биатлон",
+      "source": {
+        "name": "Dsport",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dsport.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dsport.bg/robert-kabukov-ostava-starshi-trenor-na-nacionalnia-otbor-na-balgaria-po-biatlon~227880.html",
+      "thumbnail": "https://dsport.bg/media/364/robert-kabukov~1.l.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNOekJVT0daUGRIWk1aV1ZXVFJDdUFSaWlBaWdCTWdhbGhZYnRMUVk",
+      "date": "04/23/2026, 09:35 AM, +0000 UTC",
+      "iso_date": "2026-04-23T09:35:19Z"
+    },
+    {
+      "position": 77,
+      "title": "Григор Димитров най-после се завръща в България за тенис мач",
+      "source": {
+        "name": "Plovdiv24.bg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.plovdiv24.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.plovdiv24.bg/novini/interesno/Grigor-Dimitrov-nai-posle-se-zavrushta-v-Bulgariya-za-tenis-mach-2955989",
+      "thumbnail": "https://i.id24.bg/i/2955989.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZaMkpzVlZGVldsWnlibXc1VFJEVEF4aVJCU2dLTWdZeFJZaXZwUWM",
+      "date": "04/23/2026, 11:01 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:01:22Z"
+    },
+    {
+      "position": 78,
+      "title": "Сезонът за Футболист №1 на България приключи?",
+      "source": {
+        "name": "Gong.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gong.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://gong.bg/football-sviat/anglia/sezonyt-za-futbolist-1-na-bylgariia-prikliuchi-888950",
+      "date": "04/23/2026, 08:42 AM, +0000 UTC",
+      "iso_date": "2026-04-23T08:42:52Z"
+    },
+    {
+      "position": 79,
+      "title": "Allianz очаква много по-сериозна инфлация в България от предвиденото",
+      "source": {
+        "name": "Money.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://money.bg/economics/allianz-ochakva-mnogo-po-seriozna-inflatsiya-v-balgariya-ot-predvidenoto.html",
+      "thumbnail": "https://webnews.bg/uploads/images/03/0003/760003/768x432.jpg?_=1776930099",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBjRUZ1YmtKTGNHa3lOa1o1VFJDZkF4ampCU2dLTWdZWms1aHJ0UWM",
+      "date": "04/23/2026, 09:05 AM, +0000 UTC",
+      "iso_date": "2026-04-23T09:05:56Z"
+    },
+    {
+      "position": 80,
+      "title": "За под 15 евро със самолет между България и Италия – страната ни се превръща в старт за Giro d’Italia, а авиокомпаниите се възползват",
+      "source": {
+        "name": "ФОКУС",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.focus-news.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.focus-news.net/novini/Bylgaria/Za-pod-15-evro-sus-samolet-mezhdu-Bulgariya-i-Italiya-stranata-ni-se-prevrushta-v-start-zaGiro-dItalia-a-aviokompaniite-se-vuzpolzvat-2956011",
+      "thumbnail": "https://i.id24.bg/i/2956011.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1aSEJmTjBaMlZITlJhVFUzVFJDdUF4akpCU2dLTWdrSk1JaUxtR3FLU3dJ",
+      "date": "04/23/2026, 11:50 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:50:56Z"
+    },
+    {
+      "position": 81,
+      "title": "Концертът „Цветовете на България“ ще бъде представен на 25 април в канадския град Бърнаби",
+      "source": {
+        "name": "БТА",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bta.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bta.bg/bg/bg-world/1112406-kontsertat-tsvetovete-na-balgariya-shte-bade-predstaven-na-25-april-v-kanadski",
+      "thumbnail": "https://www.bta.bg/upload/13328999/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0+2026-04-23+153429.jpg?l=1000&original=731d3ad1e575212dfac4ec9c08b9502eebb57c4e",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVVakpFYjJSUk5ITjJjM1JtVFJDREFoakNBU2dCTWdhTklZendJQWc",
+      "date": "04/23/2026, 01:04 PM, +0000 UTC",
+      "iso_date": "2026-04-23T13:04:25Z"
+    },
+    {
+      "position": 82,
+      "title": "Пловдив - протест",
+      "source": {
+        "name": "БТА",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bta.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bta.bg/bg/galleries/bulgaria/486794",
+      "thumbnail": "https://www.bta.bg/upload/13330022/BIB_5466.JPG?w=270&h=180",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5Vbk5xT1ZZMVgzQjZkR0Z4VFJDMEFSaU9BaWdCTWdrQmtKRFJ2Q2JCendF",
+      "date": "04/23/2026, 04:35 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:35:45Z"
+    },
+    {
+      "position": 83,
+      "title": "HR екипът на Кока-Кола ХБК България с престижно отличие на Годишните HR награди на БАУХ",
+      "source": {
+        "name": "marica.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marica.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ева Иванова"
+        ]
+      },
+      "link": "https://www.marica.bg/biznes-zona/hr-ekipat-na-koka-kola-hbk-balgariq-s-prestijno-otlichie-na-godishnite-hr-nagradi-na-bauh",
+      "thumbnail": "https://cdn.marica.bg/images/marica.bg/1817/1200_BAPM-HR%20Awards-03.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhVMVZGTnpGUVN5MTNRekJCVFJDZkF4ampCU2dLTWdhVk1KckluQWs",
+      "date": "04/23/2026, 11:40 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:40:00Z"
+    },
+    {
+      "position": 84,
+      "title": "България Еър стартира редовните си полети до Крит от 31 май",
+      "source": {
+        "name": "travelnews.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://travelnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://travelnews.bg/bg/news/17769459823554/balgariya-ear-startira-redovnite-si-poleti-do-krit-ot-31-may-",
+      "thumbnail": "https://travelnews.bg/pic/posts/2026-04/17769459823554/gals/crete12--1200.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNibTh6YTBac2RVOUNXVkpyVFJDM0FSaVRBaWdCTWdZQmdJUkpRQWM",
+      "date": "04/23/2026, 12:06 PM, +0000 UTC",
+      "iso_date": "2026-04-23T12:06:22Z"
+    },
+    {
+      "position": 85,
+      "title": "Бедността в България има детско лице: Над 20 процента живеят в мизерия",
+      "source": {
+        "name": "marica.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marica.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marica.bg/balgariq/obshtestvo/bednostta-v-balgariq-ima-detsko-lice-nad-20-procenta-jiveqt-v-mizeriq",
+      "thumbnail": "https://cdn.marica.bg/images/marica.bg/1523/1200_GettyImages-2155444909.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUalJ0WTJKYWJsOTFNVlJLVFJDZkF4ampCU2dLTWdZQjhJWUZ6UU0",
+      "date": "04/23/2026, 09:10 AM, +0000 UTC",
+      "iso_date": "2026-04-23T09:10:00Z"
+    },
+    {
+      "position": 86,
+      "title": "Институт за български език - проект - резултати",
+      "source": {
+        "name": "БТА",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bta.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bta.bg/bg/galleries/bulgaria/486756",
+      "thumbnail": "https://www.bta.bg/upload/13329420/543.jpg?w=1000&original=",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1RMVUzTUUxUE1WQjNjbkZUVFJDM0FSaVRBaWdCTWdtQlFZN1d0R2FpYVFJ",
+      "date": "04/23/2026, 02:31 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:31:11Z"
+    },
+    {
+      "position": 87,
+      "title": "Смяната на генералите: исторически момент за България",
+      "source": {
+        "name": "DW.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.dw.com/bg/smanata-na-generalite-istoriceski-moment-za-blgaria/a-76849820",
+      "thumbnail": "https://static.dw.com/image/76815076_804.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjazltYUZSNlVVNWtRWEJPVFJDcUJCaXFCQ2dLTWdhbE5aek5IUW8",
+      "date": "04/19/2026, 06:42 PM, +0000 UTC",
+      "iso_date": "2026-04-19T18:42:50Z"
+    },
+    {
+      "position": 88,
+      "title": "България изпревари останалите държави от ЕС по ръст на продажбите на електронни и аудио книги",
+      "source": {
+        "name": "Дебати БГ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://debati.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://debati.bg/v-balgariya-delat-na-zakupilite-elektronni-knigi-ili-audioknigi-raste-po-barzo-otkolkoto-srednoto-za-es-prez-2025-g-ravnisthe/",
+      "thumbnail": "https://debati.bg/wp-content/uploads/2026/04/v-balgariya-delat-na-zakupilite-elektronni-knigi-ili-audioknigi-raste.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSMUJJZWxCaExXRTNka1J4VFJDZkF4ampCU2dLTWdZQkFJaldIQWs",
+      "date": "04/23/2026, 12:00 PM, +0000 UTC",
+      "iso_date": "2026-04-23T12:00:46Z"
+    },
+    {
+      "position": 89,
+      "title": "Рита Уилсън и България: семейна тайна с трагичен край \"изплува\" на повърхността",
+      "source": {
+        "name": "ladyzone.bg",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ladyzone.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ladyzone.bg/laifstail/rita-uilsan-i-balgarija-semejna-tajna-s-tragichen-kraj-izpluva-na-povarhnostta.html",
+      "thumbnail": "https://cdn.btv.bg/media/images/gallery/Apr2026/2113795621.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUpibTFXVUhkVU9XVkxXRXRJVFJDdkF4aklCU2dLTWdzUllKYnlNT2VwQ3BwSGtn",
+      "date": "04/23/2026, 07:51 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:51:46Z"
+    },
+    {
+      "position": 90,
+      "title": "Проф. Гарабед Минасян: Дефицит не е мръсна дума. Най-важно е как се използва",
+      "source": {
+        "name": "bTV Новините",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://btvnovinite.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://btvnovinite.bg/bulgaria/prof-garabed-minasjan-deficit-ne-e-mrasna-duma-naj-vazhno-e-kak-se-izpolzva.html",
+      "thumbnail": "https://cdn.btv.bg/media/images/640x360/Apr2026/2113796360.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYMWcxTm1KdFRXcHZhRUZIVFJEb0FoaUFCU2dLTWdhWlo0QnBMZ1k",
+      "date": "04/23/2026, 05:45 PM, +0000 UTC",
+      "iso_date": "2026-04-23T17:45:12Z"
+    },
+    {
+      "position": 91,
+      "title": "България се подготвя за силен летен сезон и домакинството на Giro d’Italia Grande Partenza",
+      "source": {
+        "name": "Искра.бг",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.iskra.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.iskra.bg/balgariya-se-podgotvya-za-silen-leten-sezon-i-domakinstvoto-na-giro-ditalia-grande-partenza/",
+      "thumbnail": "https://www.iskra.bg/wp-content/uploads/2026/04/1-2-scaled.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHlPRXBRYXpWVGRqZEpSSFJtVFJESkF4aWVCU2dLTWd1RlFZck5wR2U1VU1sZWJB",
+      "date": "04/23/2026, 04:00 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:00:33Z"
+    },
+    {
+      "position": 92,
+      "title": "Първа среща със Suzuki eVitara в България",
+      "source": {
+        "name": "Lifestyle.bg",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://lifestyle.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://lifestyle.bg/tendencies/parva-sreshta-sas-suzuki-evitara-v-balgariya.html",
+      "thumbnail": "https://webnews.bg/uploads/images/93/9993/759993/768x432.jpg?_=1776926873",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdWazlEZGtsWlgwaFpWemxXVFJDZkF4ampCU2dLTWdtQlFvN0pJU2xjemdF",
+      "date": "04/23/2026, 07:29 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:29:59Z"
+    },
+    {
+      "position": 93,
+      "title": "Социолог: „Прогресивна България“ трудно ще предложи друг премиер освен Румен Радев",
+      "source": {
+        "name": "DarikNews.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dariknews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dariknews.bg/novini/bylgariia/sociolog-progresivna-bylgariia-trudno-shte-predlozhi-drug-premier-osven-rumen-radev-2453054",
+      "thumbnail": "https://i49.vbox7.com/o/27b/27b25a74cb0.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliMWd4UXpSTE5VWnJOQzFsVFJDZkF4ampCU2dLTWdZZE5wZ01uZ2s",
+      "date": "04/23/2026, 03:55 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:55:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Приключи ли сезонът на Илия Груев? Футболист №1 на България може да е получил сериозна контузия",
+      "source": {
+        "name": "Actualno.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.actualno.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Николай Илиев"
+        ]
+      },
+      "link": "https://www.actualno.com/football/prikluchi-li-sezonyt-na-ilija-gruev-futbolist-1-na-bylgarija-moje-da-e-poluchil-seriozna-kontuzija-news_2585579.html",
+      "thumbnail": "https://cdn.actualno.eu/actualno_2013/upload/news/2026/04/23/14b10df69519963d8d0edba5f540d215_2585579_1920x1080.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVURGhMVlZCYWJUaDFSMVJoVFJDZkF4ampCU2dLTWdhaFZaQUxvZ2c",
+      "date": "04/23/2026, 03:49 PM, +0000 UTC",
+      "iso_date": "2026-04-23T15:49:30Z"
+    },
+    {
+      "position": 95,
+      "title": "Димитър Петров: България пребори Турция и Саудитска Арабия за старта на Джиро д'Италия",
+      "source": {
+        "name": "БНТ Новини",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bntnews.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bntnews.bg/news/dimitar-petrov-balgariya-prebori-turciya-i-sauditska-arabiya-za-starta-na-jiro-d-39italiya-1389936news.html",
+      "thumbnail": "https://bntnews.bg/f/news/b/1389/0c84d4626179db1562517e10b9185b76.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWblF5Tmt0c2JqaFdhbWxxVFJDZkF4ampCU2dLTWdZUkVwSkpsUW8",
+      "date": "04/23/2026, 06:46 AM, +0000 UTC",
+      "iso_date": "2026-04-23T06:46:00Z"
+    },
+    {
+      "position": 96,
+      "title": "ЦИК обяви официалните данни от вота: 3 360 218 българи са гласували",
+      "source": {
+        "name": "bTV Новините",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://btvnovinite.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Десислава Ризова"
+        ]
+      },
+      "link": "https://btvnovinite.bg/bulgaria/cik-objavi-oficialnite-danni-ot-vota-3-360-218-balgari-sa-glasuvali.html",
+      "thumbnail": "https://cdn.btv.bg/media/images/640x360/Sep2025/2113643030.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURiMGhDYms1clJUWndjalZuVFJEb0FoaUFCU2dLTWdhdEJZenVHUW8",
+      "date": "04/23/2026, 04:32 PM, +0000 UTC",
+      "iso_date": "2026-04-23T16:32:34Z"
+    },
+    {
+      "position": 97,
+      "title": "Allianz Trade ревизира прогнозата си за инфлация в България от 2,8% на 3,7%",
+      "source": {
+        "name": "БГНЕС",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bgnes.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bgnes.bg/allianz-trade-revizira-prognozata-si-za-inflaciq-v-balgariq-ot-2-8-na-3-7",
+      "thumbnail": "https://www.bgnes.bg/static/newsimages/allianz-trade-revizira-prognozata-si-za-inflaciq-v-balgariq-ot-2-8-na-3-7-20260423105252-877d98c6.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUhOQzB5TVhkTFRVcE5ZVXRGVFJDZkF4ampCU2dLTWdzQkVJYmlqdWtWRGduMk5B",
+      "date": "04/23/2026, 07:55 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:55:01Z"
+    },
+    {
+      "position": 98,
+      "title": "Съвместно батарейно тактическо учение с военнослужещи от България и Италия на учебен център „Анево“",
+      "source": {
+        "name": "Информационен център на МО",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://armymedia.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://armymedia.bg/2026/04/23/%D1%81%D1%8A%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%BE-%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B9%D0%BD%D0%BE-%D1%82%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D1%83%D1%87%D0%B5%D0%BD/",
+      "thumbnail": "https://armymedia.bg/wp-content/uploads/2026/04/1111115404530314950544_n.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdSMDlaU21ObE5sSkNaRTgyVFJDZkF4ampCU2dLTWdrVlVJaFp1Q1Y3S0FJ",
+      "date": "04/23/2026, 02:00 PM, +0000 UTC",
+      "iso_date": "2026-04-23T14:00:06Z"
+    },
+    {
+      "position": 99,
+      "title": "Ново грандиозно тенис шоу в България: Григор и Циципас идват това лято в София!",
+      "source": {
+        "name": "Tennis.bg",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://tennis.bg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tennis.bg/article/novo-grandiozno-tenis-shou-v-bulgariia-grigor-i-tsitsipas-idvat-tova-liato-v-soofiia/47890/",
+      "thumbnail": "https://tennis.bg/uploaded/posts/1bdfb95455100d57dc7a76da664c6a56.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNhMDlSZUdaRVdrczBVVTB5VFJEVEF4aVJCU2dLTWdtWk1vcElIYXB6VUFF",
+      "date": "04/23/2026, 11:21 AM, +0000 UTC",
+      "iso_date": "2026-04-23T11:21:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "България",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxY1dnU0FtSm5LQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxY1dnU0FtSm5LQUFQAQ"
+    },
+    {
+      "title": "По света",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtSm5HZ0pDUnlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtSm5HZ0pDUnlnQVAB"
+    },
+    {
+      "title": "Вашите местни новини",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Бизнес",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtSm5HZ0pDUnlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtSm5HZ0pDUnlnQVAB"
+    },
+    {
+      "title": "Развлечения",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtSm5HZ0pDUnlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtSm5HZ0pDUnlnQVAB"
+    },
+    {
+      "title": "Спорт",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtSm5HZ0pDUnlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtSm5HZ0pDUnlnQVAB"
+    }
+  ],
+  "related_topics": [
+    {
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxY1dnU0FtSm5LQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUxY1dnU0FtSm5LQUFQAQ",
+      "title": "България"
+    },
+    {
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRE15T1hGd0VnSmlaeWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRE15T1hGd0VnSmlaeWdBUAE",
+      "title": "Национален отбор по футбол на България"
+    },
+    {
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvTEwyMHZNREV5ZWpNeGR6RVNBbUpuS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&topic_token=CAAqJQgKIh9DQkFTRVFvTEwyMHZNREV5ZWpNeGR6RVNBbUpuS0FBUAE",
+      "title": "Президент на България"
+    }
+  ],
+  "related_publications": [
+    {
+      "publication_token": "CAAqJQgKIh9DQklTRVFnTWFnMEtDM3B2ZG01bGQzTXVZMjl0S0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=bg&publication_token=CAAqJQgKIh9DQklTRVFnTWFnMEtDM3B2ZG01bGQzTXVZMjl0S0FBUAE",
+      "title": "Zov News - Новините от Северозападна България",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/faviconV2?url=http://zovnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    }
+  ]
+}
