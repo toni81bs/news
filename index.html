@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Тук сложи целия си CSS стил, който ми прати по-горе */
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; }
+        .card { border: 1px solid #eee; border-radius: 10px; text-decoration: none; color: #333; overflow: hidden; }
+        .card img { width: 100%; height: 150px; object-fit: cover; }
+        .content { padding: 10px; }
+    </style>
+</head>
+<body>
+    <div id="news-grid" class="news-grid">Зареждане на новини...</div>
+
+    <script>
+        async function fetchNews() {
+            const apiKey = 'a660e3424fde9892f9b1c973e930c63e26f8965166114558395a73f67ca62db8';
+            const url = `https://serpapi.com/search.json?engine=google_news&q=${encodeURIComponent('България')}&gl=bg&hl=bg&api_key=${apiKey}`;
+            
+            try {
+                // Използваме AllOrigins, за да заобиколим CORS на SerpApi
+                const response = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
+                const data = await response.json();
+                const newsData = JSON.parse(data.contents);
+                
+                let html = '';
+                newsData.news_results.forEach(news => {
+                    html += `
+                        <a href="${news.link}" target="_blank" class="card">
+                            <img src="${news.thumbnail || 'https://placehold.co/400x250'}" alt="">
+                            <div class="content">
+                                <div style="color:red; font-size:10px;">${news.source.name}</div>
+                                <h3 style="font-size:14px;">${news.title}</h3>
+                            </div>
+                        </a>`;
+                });
+                document.getElementById('news-grid').innerHTML = html;
+            } catch (e) {
+                document.getElementById('news-grid').innerHTML = "Грешка при зареждане.";
+            }
+        }
+        fetchNews();
+    </script>
+</body>
+</html>
